@@ -1,0 +1,16 @@
+cursoId,titulo,descripcion,nivel,anioPublicacion
+1,Introducción a Neo4j,Aprende a modelar y consultar grafos con Cypher,Básico,2024
+2,Python para Ciencia de Datos,Análisis de datos con Pandas y NumPy,Intermedio,2023
+3,Marketing Digital Avanzado,"Embudos, analítica y automatización de campañas",Avanzado,2025
+4,Desarrollo Web con JavaScript,Fundamentos de JavaScript y el DOM,Básico,2022
+5,Diseño de Interfaces UX/UI,Principios de usabilidad y prototipado,Intermedio,2024
+6,Finanzas Personales,"Presupuesto, ahorro e inversión inicial",Básico,2023
+7,Machine Learning Aplicado,Modelos supervisados y no supervisados,Avanzado,2025
+8,Ciberseguridad Esencial,Amenazas comunes y buenas prácticas de seguridad,Intermedio,2024
+9,Emprendimiento Digital,De la idea al modelo de negocio,Básico,2022
+10,Inglés para Negocios,Comunicación profesional en inglés,Intermedio,2023
+11,Nutrición y Bienestar,Hábitos saludables basados en evidencia,Básico,2021
+12,Fundamentos de Ingeniería de Software,"Ciclo de vida, requisitos y pruebas",Intermedio,2024
+13,Fotografía Digital,"Exposición, composición y edición",Básico,2022
+14,Teoría Musical Moderna,"Armonía, ritmo y lectura musical",Intermedio,2023
+15,Liderazgo de Equipos,Gestión de equipos y comunicación efectiva,Avanzado,2025
