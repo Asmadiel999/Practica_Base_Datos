@@ -1,0 +1,16 @@
+usuarioId,nombre,edad,sexo,email,fechaNacimiento
+1,Ana Gómez,31,F,ana@example.com,1995-03-12
+2,Luis Pérez,38,M,luis@example.com,1988-07-25
+3,Sam Rivera,26,Otro,sam@example.com,2000-11-02
+4,Laura Díaz,34,,laura@example.com,1992-01-30
+5,Carlos Ruiz,41,M,carlos@example.com,1985-05-14
+6,María López,27,F,maria@example.com,1999-09-09
+7,Jorge Castro,32,M,jorge@example.com,1993-12-01
+8,Sofía Herrera,25,F,sofia@example.com,2001-02-18
+9,Andrés Molina,36,M,andres@example.com,1990-10-21
+10,Valentina Rojas,29,F,valentina@example.com,1997-06-30
+11,Camilo Torres,24,M,camilo@example.com,2002-08-08
+12,Paula Vargas,37,F,paula@example.com,1989-11-20
+13,Alex Soto,30,Otro,alex@example.com,1996-04-03
+14,Daniela Mejía,32,,daniela@example.com,1994-07-17
+15,Felipe Ortiz,42,M,felipe@example.com,1983-12-25
