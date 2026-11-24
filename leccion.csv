@@ -14,3 +14,15 @@ leccionId,titulo,descripcion,duracionMin,numero
 13,"ISO, apertura y velocidad",Control manual de la exposición,21,1
 14,Figuras rítmicas,Lectura de figuras y compases,13,1
 15,Escucha activa,Técnicas para una comunicación efectiva,15,1
+16,Nodos y relaciones,Modelado de entidades y vínculos en un grafo,12,2
+17,MATCH y WHERE,Búsqueda de patrones y filtros en Cypher,15,1
+18,Agregaciones y ORDER BY,"Conteos, promedios y ordenamiento de resultados",18,2
+19,Limpieza de datos con Pandas,"Valores nulos, duplicados y tipos de datos",20,2
+20,Gráficos con Matplotlib,Visualización de series y distribuciones,22,1
+21,Métricas de conversión,"Tasa de conversión, CAC y retorno de campaña",14,2
+22,Automatización de campañas,Flujos automáticos y segmentación de audiencias,16,1
+23,Funciones y alcance,Declaración de funciones y alcance de variables,17,2
+24,Selección de elementos del DOM,querySelector y recorrido del árbol DOM,15,1
+25,Eventos en JavaScript,Escucha y manejo de eventos del usuario,20,2
+26,Casos de uso y trazabilidad,Del requisito a la prueba,16,2
+27,Pruebas unitarias,Diseño de pruebas automatizadas,18,1
